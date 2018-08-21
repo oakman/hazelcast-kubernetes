@@ -4,6 +4,7 @@ hazelcast-kubernetes
 Hazelcast clustering for Kubernetes made easy. It includes a lean (100MB) Hazelcast with Kubernetes discovery support container image, based on Alpine Linux.
 
 [![Docker Repository on Quay](https://quay.io/repository/pires/hazelcast-kubernetes/status "Docker Repository on Quay")](https://quay.io/repository/pires/hazelcast-kubernetes)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foakman%2Fhazelcast-kubernetes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Foakman%2Fhazelcast-kubernetes?ref=badge_shield)
 
 ## Software
 
@@ -423,3 +424,6 @@ public class HazelcastDiscoveryController implements CommandLineRunner {
 
 }
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foakman%2Fhazelcast-kubernetes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Foakman%2Fhazelcast-kubernetes?ref=badge_large)
